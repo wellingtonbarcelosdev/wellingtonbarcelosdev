@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Wellington Barcelos!
 ### I'm a Production Engineering student, financial market enthusiast and project hunter web3
-#### My favorite programming language is python and it is through it that i seek to develop my projects 
+#### My favorite programming languages are python and SWIFT and it is through them that I try to develop my projects
 ##### You can contact me at the following links: 
   <a href = "mailto:wellingtonbarcelosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wellingtonbarceloos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
