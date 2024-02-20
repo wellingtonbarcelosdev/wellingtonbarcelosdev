@@ -1,4 +1,4 @@
-# 👋 I’m Wellington Barcelos!
+# 👋 I’m Wellington De Barcelos!
 ### I'm a Production Engineering student, financial market enthusiast and project hunter web3
 #### My favorite programming languages are Solidity and Python and it is through them that I try to develop my projects
 ##### You can contact me at the following links: 
